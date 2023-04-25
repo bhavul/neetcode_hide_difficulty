@@ -1,0 +1,15 @@
+# Chrome and Edge extension files to exclude from Git
+node_modules/
+*.log
+*.pem
+*.key
+*.crx
+*.zip
+*.swp
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
